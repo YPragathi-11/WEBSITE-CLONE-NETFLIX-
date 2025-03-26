@@ -50,9 +50,10 @@ header a.button{
     border-radius: 3px;
 }
 header select{
-    background: transparent;
-    color: black;
+    background-color:transparent;
+    color: white;
     padding: 6px 0 6px 20px;
+    border: 1px solid #ccc;
     border-radius: 3px;
 }
 header div.select{
